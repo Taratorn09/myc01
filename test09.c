@@ -12,7 +12,7 @@ int main(){
       printf("Enter bus number :");
   scanf("%d", &bus_number);
   showline
-
+  
   switch (bus_number){
     case 57 : printf("go to pinkho,Bankanghunnon\n");
       break;
